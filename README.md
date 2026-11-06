@@ -68,6 +68,7 @@ Proposition de nouveau site pour l'Athlétic Club de Villeneuve d'Ascq, accompag
 <!-- PROJETS:START -->
 | Projet | Description | Langage | Mis à jour |
 |---|---|---|---|
+| **[hatchling](https://github.com/LempereurTom/hatchling)** · [site](https://github.com/LempereurTom/hatchling/releases/latest) | Hatchling : extracteur d'archives sur place + création ZIP/7z, avec interface et menu clic droit façon WinRAR pour Windows 10/11. Fork open source non officiel de HatchZip. In-place archive extractor and ZIP/7z creator with a WinRAR-style UI. | Rust | 2026-11-06 |
 | **[portfolio-custom](https://github.com/LempereurTom/portfolio-custom)** |  | HTML | 2026-05-21 |
 | **[Cubes_Python](https://github.com/LempereurTom/Cubes_Python)** |  |  | 2022-12-28 |
 <!-- PROJETS:END -->
