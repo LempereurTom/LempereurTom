@@ -1,11 +1,12 @@
 # Salut 👋, moi c'est Tom
 
-Développeur web & applications — je crée des sites vitrines, des applis et des outils sur mesure.
+Développeur web & applications, fondateur du studio de webdesign **[Snakehound](https://snakehound.fr)** — je crée des sites vitrines, des applis et des outils sur mesure.
 
 # 🚀 Projets à la une
 
 | Projet | Description | Stack |
 |----------|-------------|-------|
+| **[Snakehound](https://snakehound.fr)** | Mon studio de webdesign — son site vitrine, avec deux effets interactifs sur mesure : un rideau de peinture à « vaporiser » au chargement et des cartes de service animées | **Frontend :** React, Vite, TypeScript <br> **Hébergement :** Vercel |
 | **SaveNomad** | Outil pour reprendre une partie sur n'importe quel appareil : synchronise les sauvegardes in-game des émulateurs (RetroArch, Dolphin, PCSX2 / NetherSX2, PPSSPP) entre PC Windows, Linux et consoles Android. Ne supprime jamais rien, gère les conflits et propose un mode `--dry-run` | **Langage :** Python 3.9+ (sans dépendance) <br> **Sync :** Syncthing / cloud |
 | **[Portfolio](https://github.com/LempereurTom/portfolio-custom)** | Portfolio personnel inspiré de l'univers papier découpé de Little Big Planet et Tearaway : fond de cahier quadrillé, navigation en stickers dessinés à la main, effet de tilt 3D au survol | **Frontend :** HTML, CSS pur (aucun framework) |
 | **[Cubes Python](https://github.com/LempereurTom/Cubes_Python)** | Jeu de construction en voxels à la première personne : poser et casser des blocs (herbe, pierre, brique, terre), skybox, modèles 3D faits sous Blender | **Moteur :** Python, Ursina <br> **3D :** Blender |
@@ -16,7 +17,6 @@ Développeur web & applications — je crée des sites vitrines, des applis et d
 
 | Projet | Description | Stack |
 |----------|-------------|-------|
-| **[Snakehound](https://snakehound.fr)** | Site vitrine de mon studio de webdesign, avec deux effets interactifs sur mesure : un rideau de peinture à « vaporiser » au chargement et des cartes de service animées | **Frontend :** React, Vite, TypeScript <br> **Hébergement :** Vercel |
 | **[by'PAPA](https://www.bypapa.fr)** | Site vitrine d'un snack de burgers smashés et poutines faits maison à Tourcoing : carte à onglets, contact avec carte OpenStreetMap, SEO local (Schema.org) et accessibilité Opquast | **Frontend :** React, Vite, Tailwind CSS 4, React Router <br> **Hébergement :** Vercel |
 | **[Hashtag Bangers](https://hashtag-bangers.vercel.app)** | Refonte du site d'un restaurant de smash burgers & fried chicken à Roubaix : hero animé, burgers en scroll horizontal épinglé, carte complète de 79 produits, horaires avec statut ouvert/fermé en temps réel | **Frontend :** Next.js 16, React 19, Tailwind CSS 4, Motion, Lenis <br> **Hébergement :** Vercel |
 | **[AAM Delariva](https://aam-delariva-site.vercel.app)** | Site du club de Jiu-Jitsu Brésilien de Lys-lez-Lannoy, en remplacement de l'ancien WordPress : cours et planning, boutique, actualités et inscriptions via HelloAsso | **Frontend :** Astro <br> **Hébergement :** Vercel |
