@@ -12,6 +12,8 @@ import urllib.request
 USER = os.environ.get("GH_USER", "LempereurTom")
 LIMIT = 6
 README = "README.md"
+# Dépôts à ne jamais afficher dans la liste automatique
+EXCLUDE = {"portfolio-custom"}
 
 req = urllib.request.Request(
     f"https://api.github.com/users/{USER}/repos?per_page=100&type=owner&sort=pushed",
@@ -28,6 +30,7 @@ repos = [
     r for r in repos
     if not r["fork"] and not r["archived"] and not r["private"]
     and r["name"].lower() != USER.lower()
+    and r["name"] not in EXCLUDE
 ]
 repos.sort(key=lambda r: r["pushed_at"], reverse=True)
 
