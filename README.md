@@ -32,7 +32,7 @@ Développeur web & applications, fondateur du studio de webdesign **[Snakehound]
 | Projet | Description | Langage | Mis à jour |
 |---|---|---|---|
 | **[portfolio-custom](https://github.com/LempereurTom/portfolio-custom)** |  | HTML | 2026-05-21 |
-| **[Cubes_Python](https://github.com/LempereurTom/Cubes_Python)** |  | — | 2022-12-28 |
+| **[Cubes_Python](https://github.com/LempereurTom/Cubes_Python)** |  |  | 2022-12-28 |
 <!-- PROJETS:END -->
 
 ---
