@@ -42,7 +42,7 @@ for r in repos[:LIMIT]:
     if r.get("homepage"):
         link += f" · [site]({r['homepage']})"
     rows.append(
-        f"| {link} | {cell(r['description']) or '—'} | {cell(r['language']) or '—'} | {r['pushed_at'][:10]} |"
+        f"| {link} | {cell(r['description'])} | {cell(r['language'])} | {r['pushed_at'][:10]} |"
     )
 table = "\n".join(rows) if repos else "_Aucun dépôt public pour l'instant._"
 
