@@ -67,8 +67,8 @@ Proposition de nouveau site pour l'Athlétic Club de Villeneuve d'Ascq, accompag
 <!-- PROJETS:START -->
 | Projet | Description | Langage | Mis à jour |
 |---|---|---|---|
-| **[ps3-xmb](https://github.com/LempereurTom/ps3-xmb)** | Interface PS3 (XMB) pour Steam Deck, Big Picture et Steam bureau, mariée au verre fumé de Glass Dusk — plugin Decky + thème Millennium | TypeScript | 2026-11-19 |
-| **[ps3-xmb-theme](https://github.com/LempereurTom/ps3-xmb-theme)** · [site](https://github.com/LempereurTom/ps3-xmb) | PS3 XMB · Glass Dusk — the PlayStation 3 interface for Steam (desktop + Big Picture), a Millennium theme. Source: LempereurTom/ps3-xmb | CSS | 2026-11-19 |
+| **[ps3-xmb-theme](https://github.com/LempereurTom/ps3-xmb-theme)** · [site](https://github.com/LempereurTom/ps3-xmb) | PS3 XMB · Glass Dusk — the PlayStation 3 interface for Steam (desktop + Big Picture), a Millennium theme. Source: LempereurTom/ps3-xmb | CSS | 2026-11-27 |
+| **[ps3-xmb](https://github.com/LempereurTom/ps3-xmb)** | Interface PS3 (XMB) pour Steam Deck, Big Picture et Steam bureau, mariée au verre fumé de Glass Dusk — plugin Decky + thème Millennium | TypeScript | 2026-11-27 |
 | **[hatchling](https://github.com/LempereurTom/hatchling)** · [site](https://github.com/LempereurTom/hatchling/releases/latest) | Hatchling : extracteur d'archives sur place + création ZIP/7z, avec interface et menu clic droit façon WinRAR pour Windows 10/11. Fork open source non officiel de HatchZip. In-place archive extractor and ZIP/7z creator with a WinRAR-style UI. | Rust | 2026-11-06 |
 | **[Cubes_Python](https://github.com/LempereurTom/Cubes_Python)** |  |  | 2022-12-28 |
 <!-- PROJETS:END -->
